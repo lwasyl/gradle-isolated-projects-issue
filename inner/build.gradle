@@ -1,0 +1,3 @@
+ext.set("someInnerFunction", { println("executed in inner project") })
+
+someInnerFunction()
